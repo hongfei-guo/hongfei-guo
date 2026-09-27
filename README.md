@@ -6,10 +6,25 @@ My research focuses on Bayesian probabilistic forecasting, time series and finan
 
 ## Selected research
 
-- **Target-driven Bayesian stacking of realised and implied volatility forecasts.** Published in Economics Letters. Target-specific combinations of predictive distributions and variance forecasts. [Paper](https://doi.org/10.1016/j.econlet.2026.113166) · [Code](https://github.com/hongfei-guo/target-driven-bayesian-stacking) · [Replication archive](https://doi.org/10.5281/zenodo.22978870).
-- **Information, Not Flexibility: Attributing Forecast Gains in Neural Stochastic Volatility.** Matched comparisons of realised information, neural functional form and forecast combination. [Code](https://github.com/hongfei-guo/volatility-forecast-attribution) · [Replication archive](https://doi.org/10.5281/zenodo.22923099).
-- **Testing Whether Volatility Model Gains Persist: A Prespecified Holdout in Tail Risk Forecasting.** Eight-model forecast evaluation with a prespecified subsequent holdout. [Working paper](https://hdl.handle.net/10016/50798) · [Code](https://github.com/hongfei-guo/volatility-model-gains) · [Replication archive](https://doi.org/10.5281/zenodo.22657288).
+**Target-driven Bayesian stacking of realised and implied volatility forecasts**
 
-My research software uses Python, R and Stan. The repositories document the respective coauthored studies and their reproduction requirements; source-data availability is described in each package.
+Economics Letters, 2026. Target-specific combinations of predictive distributions and variance forecasts.
 
-The studies are joint work with Juan Miguel Marín and Helena Veiga. I led implementation and empirical analysis; individual scientific contributions are described in the papers.
+[Paper](https://doi.org/10.1016/j.econlet.2026.113166) · [Code](https://github.com/hongfei-guo/target-driven-bayesian-stacking) · [Replication archive](https://doi.org/10.5281/zenodo.22978870)
+
+**Information, Not Flexibility: Attributing Forecast Gains in Neural Stochastic Volatility**
+
+Matched comparisons of realised information, neural functional form and forecast combination.
+
+[Code](https://github.com/hongfei-guo/volatility-forecast-attribution) · [Replication archive](https://doi.org/10.5281/zenodo.22923099)
+
+**Testing Whether Volatility Model Gains Persist: A Prespecified Holdout in Tail Risk Forecasting**
+
+Eight-model forecast evaluation with a prespecified subsequent holdout.
+
+[Working paper](https://hdl.handle.net/10016/50798) · [Code](https://github.com/hongfei-guo/volatility-model-gains) · [Replication archive](https://doi.org/10.5281/zenodo.22657288)
+
+These projects are joint work with Juan Miguel Marín and Helena Veiga.
+I led the implementation and empirical analysis, using Python, R and Stan.
+
+[Google Scholar](https://scholar.google.com/citations?user=RRoDiicAAAAJ&hl=en) · [Email](mailto:100457766@alumnos.uc3m.es)
