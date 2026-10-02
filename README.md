@@ -6,6 +6,14 @@ My research focuses on Bayesian probabilistic forecasting, time series and finan
 
 ## Selected research
 
+**Diagnosing and Stabilizing Dynamic Correlations in Multivariate Stochastic Volatility Models**
+
+Job Market Paper · Under review at the Journal of Financial Econometrics.
+
+A component-level diagnostic identifies whether differences in covariance forecast performance come from volatility or correlations and guides the stabilization of dynamic correlations. The stabilized, realized-augmented models compete with leading realized-covariance benchmarks while retaining full predictive distributions.
+
+[Working paper](https://hdl.handle.net/10016/50561)
+
 **Target-driven Bayesian stacking of realised and implied volatility forecasts**
 
 Economics Letters, 2026. Target-specific combinations of predictive distributions and variance forecasts.
@@ -16,7 +24,7 @@ Economics Letters, 2026. Target-specific combinations of predictive distribution
 
 Matched comparisons of realised information, neural functional form and forecast combination.
 
-[Code](https://github.com/hongfei-guo/volatility-forecast-attribution) · [Replication archive](https://doi.org/10.5281/zenodo.22923099)
+[Working paper](https://hdl.handle.net/10016/47944) · [Code](https://github.com/hongfei-guo/volatility-forecast-attribution) · [Replication archive](https://doi.org/10.5281/zenodo.22923099)
 
 **Testing Whether Volatility Model Gains Persist: A Prespecified Holdout in Tail Risk Forecasting**
 
