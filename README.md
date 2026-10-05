@@ -22,11 +22,15 @@ Economics Letters, 2026. Target-specific combinations of predictive distribution
 
 **Information, Not Flexibility: Attributing Forecast Gains in Neural Stochastic Volatility**
 
+Submitted to the International Journal of Forecasting.
+
 Matched comparisons of realised information, neural functional form and forecast combination.
 
 [Working paper](https://hdl.handle.net/10016/47944) · [Code](https://github.com/hongfei-guo/volatility-forecast-attribution) · [Replication archive](https://doi.org/10.5281/zenodo.22923099)
 
 **Testing Whether Volatility Model Gains Persist: A Prespecified Holdout in Tail Risk Forecasting**
+
+Submitted to the Journal of Forecasting.
 
 Eight-model forecast evaluation with a prespecified subsequent holdout.
 
@@ -35,4 +39,4 @@ Eight-model forecast evaluation with a prespecified subsequent holdout.
 These projects are joint work with Juan Miguel Marín and Helena Veiga.
 I led the implementation and empirical analysis, using Python, R and Stan.
 
-[Google Scholar](https://scholar.google.com/citations?user=RRoDiicAAAAJ&hl=en) · [Email](mailto:100457766@alumnos.uc3m.es)
+[Google Scholar](https://scholar.google.com/citations?user=RRoDiicAAAAJ&hl=en) · [Email](mailto:hongfei.guo@alumnos.uc3m.es)
