@@ -1,6 +1,6 @@
 # Hongfei Guo
 
-I am a Ph.D. candidate in Mathematical Engineering at Universidad Carlos III de Madrid, with expected completion in summer 2027.
+I am a Ph.D. candidate in Mathematical Engineering at Universidad Carlos III de Madrid, with expected completion by June 2027.
 
 My research focuses on Bayesian probabilistic forecasting, time series and financial risk. I develop and evaluate state-space models, neural-network specifications and forecast combinations, with particular attention to where predictive gains come from and whether they persist out of sample.
 
@@ -8,7 +8,7 @@ My research focuses on Bayesian probabilistic forecasting, time series and finan
 
 **Diagnosing and Stabilizing Dynamic Correlations in Multivariate Stochastic Volatility Models**
 
-Job Market Paper · Under review at the Journal of Financial Econometrics.
+Job Market Paper.
 
 A component-level diagnostic identifies whether differences in covariance forecast performance come from volatility or correlations and guides the stabilization of dynamic correlations. The stabilized, realized-augmented models compete with leading realized-covariance benchmarks while retaining full predictive distributions.
 
@@ -30,7 +30,7 @@ Matched comparisons of realised information, neural functional form and forecast
 
 **Testing Whether Volatility Model Gains Persist: A Prespecified Holdout in Tail Risk Forecasting**
 
-Submitted to the Journal of Forecasting.
+Under review at the Journal of Forecasting.
 
 Eight-model forecast evaluation with a prespecified subsequent holdout.
 
